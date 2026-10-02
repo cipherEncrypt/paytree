@@ -1,0 +1,11 @@
+{
+  "chainId": "46630",
+  "network": "robinhoodTestnet",
+  "deployer": "0xD743cd84aFe583d30cF99dC9c5dDFE9b38983AaA",
+  "MockStock": "0xD960ad8F2593a9BEa8EaD2bee1Cc8F6E90362f3b",
+  "MockUSDG": "0x426d0Df597e0b2938dc846dAfD9De8A77A6Bf93e",
+  "PaytreeVault": "0x93132433013E92F18F7850B80C4cB31Cd578B048",
+  "seededUsdg": "1000000000000000000000000",
+  "mintedStockToDeployer": "100000000000000000000000",
+  "deployedAt": "2026-10-02T08:25:33.746Z"
+}
