@@ -11,7 +11,8 @@
     "demo:local": "hardhat run scripts/deploy-and-demo.js",
     "demo": "hardhat run scripts/deploy-and-demo.js",
     "demo:sepolia": "hardhat run scripts/demo.js --network arbitrumSepolia",
-    "demo:robinhood": "hardhat run scripts/demo.js --network robinhoodTestnet"
+    "demo:robinhood": "hardhat run scripts/demo.js --network robinhoodTestnet",
+    "sync:frontend": "node scripts/sync-frontend-abis.js"
   },
   "keywords": [
     "paytree",

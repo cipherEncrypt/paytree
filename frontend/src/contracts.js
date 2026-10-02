@@ -1,7 +1,7 @@
-import vaultArtifact from "../../artifacts/contracts/PaytreeVault.sol/PaytreeVault.json";
-import stockArtifact from "../../artifacts/contracts/MockStock.sol/MockStock.json";
-import usdgArtifact from "../../artifacts/contracts/MockUSDG.sol/MockUSDG.json";
-import deployment from "../../scripts/deployments.json";
+import vaultArtifact from "./generated/abis/PaytreeVault.json";
+import stockArtifact from "./generated/abis/MockStock.json";
+import usdgArtifact from "./generated/abis/MockUSDG.json";
+import deployment from "./generated/deployments.json";
 
 export const CHAIN_ID = Number(deployment.chainId);
 
