@@ -60,5 +60,3 @@ Connect a wallet on chain 46630. Balances and allowance come from `PaytreeVault`
 ## License
 
 MIT
-
-thanks 
